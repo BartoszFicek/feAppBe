@@ -1,13 +1,8 @@
-# feAppBe
+## To run app
 
-### Run Project With yarn
+###### In order to run the backend app please execute the following commands
 
-#### `yarn`
-
-#### `yarn start`
-
-### Run Project With npm
-
-#### `npm install`
-
-#### `npm start`
+```
+yarn install
+yarn start
+```
